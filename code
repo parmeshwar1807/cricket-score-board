@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title("IPL Season 13 Live Score | Techie Programmer")
+root.title("IPL Season 13 Live Score |Group 4 (Roll no- 32,36,42) ")
 
 url = 'https://www.cricbuzz.com/'
 import requests
